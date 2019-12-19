@@ -1,0 +1,38 @@
+{
+    "name": "API Transformer",
+    "description": "<p>Transform API Descriptions from\/to various formats e.g., Swagger, API Blueprint, RAML, WADL, Google Discovery, I\/O Docs. Please contact us for production and high volume usage.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-transformer-screenshot.png",
+    "tags": [
+        "api service provider",
+        "conversions",
+        "definitions",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/api-transformer\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "API Transformer",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-transformer-screenshot.png",
+            "humanURL": "https:\/\/apitransformer.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-transformer-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/apitransformer.com\/"
+        }
+    ]
+}
